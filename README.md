@@ -11,3 +11,5 @@ This project was how to print star pyramid patterns in C++ programming language 
 
 ### Download
 If you like to get the source code [Go Download](https://github.com/jaffery97/Pyramid_patterns_CPP/archive/master.zip) to learn more about patterns in C++.
+
+#### Need Help on your assignment ? [Go here](https://edchat.info/ed).
