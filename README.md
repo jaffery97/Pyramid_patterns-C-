@@ -1,4 +1,4 @@
-This project was C++ program to print star pyramid patterns for midterm exam of ET750 on April 15 2020 [Watch video with details on youtube](https://www.youtube.com/channel/UCD8nhbxPg4DT0vqRxxpK6Kw/).
+This project was how to print star pyramid patterns in C++ programming language for midterm exam of ET750 on April 15 2020 [Watch video with details on youtube](https://www.youtube.com/channel/UCD8nhbxPg4DT0vqRxxpK6Kw/).
 
 ## C++ program to print star pyramid patterns. Demo List
 
